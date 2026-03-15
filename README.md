@@ -16,7 +16,7 @@ Databricks | PySpark | Delta Lake | Python | Scikit-learn | MLflow
 
 This project helped me understand how modern data platforms combine **data engineering, analytics, and machine learning into a unified pipeline**.
 
-🔗 GitHub Project: (Add your GitHub link)
+🔗 GitHub Project: (https://github.com/Diveshn06/databricks-ecommerce-ml-project)
 
 Thanks to Databricks, Codebasics, and Indian Data Club for organizing this challenge.
 
