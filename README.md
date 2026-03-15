@@ -45,7 +45,7 @@ Gold Layer – Customer level aggregated features
 ↓
 Machine Learning Model – Random Forest Classifier
 
----
+![Databricks Architecture](architecture.png)
 
 ## Data Pipeline
 
